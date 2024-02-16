@@ -1,2 +1,2 @@
 # Jorgi-11.github.io
-tadadada another practice repo #2
+practice repo for trends in application #2(public)
